@@ -1,28 +1,12 @@
-## Portfolio site 2017
+## Portfolio site 2019
 
-### LINK: https://dalinhuang99.github.io/
+### LINK: https://juned.github.io/
 
 :sunglasses::sunglasses::sunglasses: <br>
 :sunglasses::flushed::sunglasses: <br>
 :sunglasses::sunglasses::sunglasses: <br>
 
 ---
-
-**Note: if you would like to clone this mini portfolio page:**
-
-Remove the google analytics code at the head of `index.html` please 🙏(or setup one for yourself 😃)
-
-```
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107490980-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments)};
-        gtag('js', new Date());
-        gtag('config', 'UA-107490980-1');
-    </script>
-```
-
 ---
 
 #### Nov 11, 2017
